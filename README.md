@@ -1,5 +1,5 @@
 # assignement2
->Open the colab notebook The link would be in the file or just download the notebook.
+- Open the colab notebook The link would be in the file or just download the notebook.
 >Step 1 : Import the rt_reviews.csv file in the same folder as the notebook
 >Step 2 : Run Cells from 1 to 9. You will be able to see the accuracy with the simplest model.
 >_Cells 10 and 11 are only to show the experiments that i have done so you can leave them aside_
